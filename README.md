@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @thatboyPeace
-- 👀 I’m interested in web Development and Robotics 
-- 🌱 I’m currently learning Python, Html, CSS AND Javascript 
+- 👀 I’m interested in web Development, App development and Robotics 
+- 🌱 I’m currently learning Python, Html, CSS AND Javascript. 
 - 📫 How to reach me @thugamarr on Instagram or peace.owoseni@stu.cu.edu.ng by mail
 
 <!---
